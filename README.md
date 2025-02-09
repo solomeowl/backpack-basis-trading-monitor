@@ -21,7 +21,7 @@ This project is a Python-based trading monitor that tracks arbitrage opportuniti
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/backpack-basis-trading-monitor.git
+   git clone https://github.com/solomeowl/backpack-basis-trading-monitor.git
    cd backpack-basis-trading-monitor
    ```
 
