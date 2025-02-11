@@ -1,3 +1,3 @@
-backpack-exchange-sdk
+backpack-exchange-sdk>=1.0.30
 pandas
 numpy
