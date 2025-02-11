@@ -27,7 +27,7 @@ This project is a Python-based trading monitor that tracks arbitrage opportuniti
 
 2. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 3. Run the monitor:
